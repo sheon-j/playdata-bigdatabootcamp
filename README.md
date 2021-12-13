@@ -1,4 +1,12 @@
 # playdata-bigdatabootcamp
 
-플레이데이터 빅데이터 부트캠프 과정의 스터디 기록을 담은 공간입니다.
-[!image](https://cdn.imweb.me/thumbnail/20211209/21d4241b74da2.png)
+플레이데이터 빅데이터 부트캠프 과정의 스터디 기록(Today I Learned)을 담은 공간입니다.
+
+- 과학기술정보통신부 혁신성장 청년인재 집중양성
+- 프로젝트 기반 빅데이터 엔지니어 양성과정 (7기)
+- 2021.11.09 - 2022.04.29
+
+![image](https://cdn.imweb.me/thumbnail/20211209/21d4241b74da2.png)
+
+![image](https://www.en-core.com/images/main/logo.png)
+
