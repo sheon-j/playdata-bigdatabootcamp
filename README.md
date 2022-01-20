@@ -6,7 +6,7 @@
 - 프로젝트 기반 빅데이터 엔지니어 양성과정 (7기)
 - 2021.11.09 - 2022.04.29
 
-![image](https://cdn.imweb.me/thumbnail/20211209/21d4241b74da2.png)
+![image](https://www.en-core.com/images/sub/play1-lgoo.png)
 
 ![image](https://www.en-core.com/images/main/logo.png)
 
