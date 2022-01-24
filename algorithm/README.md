@@ -84,6 +84,14 @@
 
 ---
 
+## 8. 다익스트라
+
+* **8주차 강의 : 다익스트라**
+* **8주차 문제 : 배달, 특정 거리의 도시 찾기, 가장 먼 노드**
+* **[8주차 다익스트라 배우러 가기(클릭)](https://playdatacademy.notion.site/8-095141ad75e4418184dd0742fb86d837)**
+
+---
+
 **[현황 체크 및 알고리즘 문제 풀러 가기 (클릭)](https://docs.google.com/spreadsheets/d/1j_E-bIeJOOGjtHBTtej0XUBYHYbJ7ceGGmY9FWoOFDs/edit?usp=sharing)**
 
 ---
