@@ -24,7 +24,7 @@
 
 ---
 
-### **[현황 체크 및 알고리즘 문제 풀러 가기 (클릭)](https://docs.google.com/spreadsheets/d/1j_E-bIeJOOGjtHBTtej0XUBYHYbJ7ceGGmY9FWoOFDs/edit?usp=sharing)**
+**[현황 체크 및 알고리즘 문제 풀러 가기 (클릭)](https://docs.google.com/spreadsheets/d/1j_E-bIeJOOGjtHBTtej0XUBYHYbJ7ceGGmY9FWoOFDs/edit?usp=sharing)**
 
 ---
 
@@ -92,7 +92,22 @@
 
 ---
 
-**[현황 체크 및 알고리즘 문제 풀러 가기 (클릭)](https://docs.google.com/spreadsheets/d/1j_E-bIeJOOGjtHBTtej0XUBYHYbJ7ceGGmY9FWoOFDs/edit?usp=sharing)**
+## 9. 탐욕법
+
+* **9주차 강의 : 탐욕법**
+* **9주차 문제 : 체육복, 전자레인지, 구명보트**
+* **[9주차 탐욕법 배우러 가기(클릭)](https://playdatacademy.notion.site/9-8491ca10dbad4010b5e8e1c19ab5964d)**
 
 ---
 
+## 10. 연결리스트/트리구조
+
+* **10주차 강의 : 연결리스트/트리구조**
+* **10주차 문제 : 프린터, 더 맵게, 이중우선순위큐**
+* **[10주차 연결리스트/트리구조 배우러 가기(클릭)](https://playdatacademy.notion.site/10-9b53981b09aa4ae0bc52bfb1198ea78c)**
+
+---
+
+**[현황 체크 및 알고리즘 문제 풀러 가기 (클릭)](https://docs.google.com/spreadsheets/d/1j_E-bIeJOOGjtHBTtej0XUBYHYbJ7ceGGmY9FWoOFDs/edit?usp=sharing)**
+
+---
