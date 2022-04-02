@@ -111,3 +111,14 @@
 **[현황 체크 및 알고리즘 문제 풀러 가기 (클릭)](https://docs.google.com/spreadsheets/d/1j_E-bIeJOOGjtHBTtej0XUBYHYbJ7ceGGmY9FWoOFDs/edit?usp=sharing)**
 
 ---
+
+## 11. Advanced
+
+* [Advanced 알고리즘](https://docs.google.com/spreadsheets/d/1NjGJL3xTTGs2RJJOVB4IPLKAhLyP55evjFwJOWgF-p8/edit#gid=805159952)
+
+---
+
+
+
+
+
